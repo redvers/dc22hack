@@ -64,10 +64,12 @@ Felix Rusu (felix@lowpowerlab.com): Example code in C
 (https://github.com/LowPowerLab/RFM69)
 
 ZeroChaos: For this video https://www.youtube.com/watch?v=c3bpN9eHe5o
-which talks about not publishing stuff because it's only a small
-hack or "I'll publish it after I tidy it up".
+which talks about the damage caused to our community by not publishing
+code because "it's only a small hack" or "I'll publish it after I
+tidy it up".
 
 HopeRF: who took my "extremely fast" order to ship to Defcon as an
 exception to their shipping process so it could conform to the Rio's
 bizzare "incoming mail requirements for guests".
+
 
