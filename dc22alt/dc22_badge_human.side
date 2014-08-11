@@ -1,0 +1,8 @@
+dc22_badge_human.spin
+jm_prng.spin
+FullDuplexSerial.spin
+SPI_Spin.spin
+ASCII0_STREngine_1.spin
+rfmessaging.spin
+jm_ws2812.spin
+>compiler=SPIN
